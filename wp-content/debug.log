@@ -1,0 +1,6 @@
+[02-Apr-2025 06:34:23 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-A4/.wordpress/wp-includes/pluggable.php on line 1625
+[02-Apr-2025 06:46:55 UTC] PHP Warning:  Attempt to read property "queue" on null in /workspaces/UX221-A4/.wordpress/wp-includes/class-wp-oembed-controller.php on line 211
+[02-Apr-2025 06:46:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /workspaces/UX221-A4/.wordpress/wp-includes/class-wp-oembed-controller.php on line 211
+[02-Apr-2025 06:54:54 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-A4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[02-Apr-2025 07:01:23 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-A4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[02-Apr-2025 07:09:50 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-A4/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
